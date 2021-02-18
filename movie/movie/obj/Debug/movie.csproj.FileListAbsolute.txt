@@ -1,0 +1,6 @@
+E:\finalcheck-moviecrusier\movie\movie\bin\Debug\movie.dll
+E:\finalcheck-moviecrusier\movie\movie\bin\Debug\movie.pdb
+E:\finalcheck-moviecrusier\movie\movie\obj\Debug\movie.csprojAssemblyReference.cache
+E:\finalcheck-moviecrusier\movie\movie\obj\Debug\movie.csproj.CoreCompileInputs.cache
+E:\finalcheck-moviecrusier\movie\movie\obj\Debug\movie.dll
+E:\finalcheck-moviecrusier\movie\movie\obj\Debug\movie.pdb

@@ -1,0 +1,12 @@
+E:\finalcheck-moviecrusier\main\main\bin\Debug\main.exe.config
+E:\finalcheck-moviecrusier\main\main\bin\Debug\main.exe
+E:\finalcheck-moviecrusier\main\main\bin\Debug\main.pdb
+E:\finalcheck-moviecrusier\main\main\bin\Debug\movie.dll
+E:\finalcheck-moviecrusier\main\main\bin\Debug\user.dll
+E:\finalcheck-moviecrusier\main\main\bin\Debug\movie.pdb
+E:\finalcheck-moviecrusier\main\main\bin\Debug\user.pdb
+E:\finalcheck-moviecrusier\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+E:\finalcheck-moviecrusier\main\main\obj\Debug\main.csproj.CopyComplete
+E:\finalcheck-moviecrusier\main\main\obj\Debug\main.exe
+E:\finalcheck-moviecrusier\main\main\obj\Debug\main.pdb
+E:\finalcheck-moviecrusier\main\main\obj\Debug\main.csprojAssemblyReference.cache
